@@ -1,4 +1,4 @@
-The 4 books that I will be working through in this repository are:
+The 4 books that I will be working through from Jan - Apr:
 
     1. Introduction to Statistical Learning with Python
     2. Mathematics for Machine Learning
