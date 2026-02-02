@@ -1,0 +1,13 @@
+In this directory I will create all of the regression models, and ML concepts with regards to Regression. In ISLP I will be covering chapters:
+	3 - Linear Regression
+		a. Linear Regression
+		b. Multiple Linear Regression
+	
+With regards to the content I've learned in class I will also be implementing:
+	Regularized Linear Regression
+	Gradient Descent
+	Feature Selection + Pipelining
+	Test, Training, and Validation Data Selection
+	Bias and Variance
+	Learning Curves
+	
