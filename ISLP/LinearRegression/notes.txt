@@ -9,5 +9,5 @@ With regards to the content I've learned in class I will also be implementing:
 	Feature Selection + Pipelining
 	Test, Training, and Validation Data Selection
 	Bias and Variance
-	Learning Curves
+	Learning Curves (Contain Testing Error and Training Error)
 	
